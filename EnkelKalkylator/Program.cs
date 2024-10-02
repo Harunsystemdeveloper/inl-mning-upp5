@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("En simåel Kalkylator");
+        Console.WriteLine("En simpel Kalkylator");
         Console.WriteLine("Skriv första siffran:");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
