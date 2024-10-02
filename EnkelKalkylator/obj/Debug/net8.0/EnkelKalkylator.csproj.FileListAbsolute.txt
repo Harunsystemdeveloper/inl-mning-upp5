@@ -1,0 +1,11 @@
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/bin/Debug/net8.0/EnkelKalkylator
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/bin/Debug/net8.0/EnkelKalkylator.dll
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/bin/Debug/net8.0/EnkelKalkylator.pdb
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.AssemblyInfoInputs.cache
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.AssemblyInfo.cs
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.csproj.CoreCompileInputs.cache
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.sourcelink.json
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.dll
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/refint/EnkelKalkylator.dll
+/Users/harresta/Desktop/inlämning-upp5/EnkelKalkylator/obj/Debug/net8.0/EnkelKalkylator.pdb

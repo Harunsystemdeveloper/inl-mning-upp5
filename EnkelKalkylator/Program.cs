@@ -4,14 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enkel Kalkylator");
-        Console.WriteLine("Ange första siffran:");
+        Console.WriteLine("En simåel Kalkylator");
+        Console.WriteLine("Skriv första siffran:");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Ange operator (+, -, *, /):");
+        Console.WriteLine("Skriv operator (+, -, *, /):");
         string op = Console.ReadLine();
 
-        Console.WriteLine("Ange andra siffran:");
+        Console.WriteLine("Skriv den andra siffran:");
         double num2 = Convert.ToDouble(Console.ReadLine());
 
         double resultat = 0;
@@ -34,7 +34,7 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine("Fel: Division med noll är inte tillåten.");
+                    Console.WriteLine("Inkorrekt: Division med siffran 0 är inte tillåten.");
                 }
                 break;
             default:
