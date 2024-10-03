@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnkelKalkylator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e731153fe9ec11eb9921c8342bd582558ad7f706")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20cb0c1208de0928d64f48765fe8ac445d869730")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnkelKalkylator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnkelKalkylator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
